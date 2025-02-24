@@ -39,7 +39,7 @@ This project implements sentiment analysis on drug reviews using logic regressio
 - Classification of Negative Sentiment is on average side of 63%.
 
 #SENTIMENT DISTRIBUTION BY TOP 20 DRUGS  
-! [image alt](https://github.com/pulipakav1/Sentiment-Analysis/blob/da67588f8bd7d11d641ec97b42878378747c78f6/Sentiment%20Distribution%20by%20top%2020%20drugs.png)
+![image alt](https://github.com/pulipakav1/Sentiment-Analysis/blob/da67588f8bd7d11d641ec97b42878378747c78f6/Sentiment%20Distribution%20by%20top%2020%20drugs.png)
 - Levonorgestrel has the most reviews, with the majority being good (yellow), followed by Etonogestrel and Phentermine.
 - Positive sentiment is predominant across most medications, with negative (purple) and neutral (teal) sentiments following in lower numbers.
 - Sertraline, Escitalopram, and Gabapentin have a very balanced sentiment distribution, with both favourable and negative ratings.
